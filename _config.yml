@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "LiuQingming"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "./photo.png"
+  bio              : "student of BJTU Grade 2019 Who Majoring in AI"
+  location         : "BeiJing Haidian District"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://google.com"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bilibili         : "www.bilibili.com"
 
 
 # Reading Files
